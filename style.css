@@ -1,2 +1,11 @@
 p{
-	color: red}
+	color: red;
+	font-size: 300px;
+	font-family: arial;
+	padding: 0;
+	text-align: center;
+	margin: 0;
+	border: 0px;
+	display: block;
+
+}
